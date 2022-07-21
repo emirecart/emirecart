@@ -1,10 +1,10 @@
 # Psychologist and Future Neuroscientist 
 ---
 
-My researches areas are : 
-- *Machine Learning and Deep Learning for Behavioural Science
-- *Social Psychology
-- *Neuroscience
+>My researches areas are : 
+>- Machine Learning and Deep Learning for Behavioural Science
+>- Social Psychology
+>- Neuroscience
 
 I focus my analisis using Python (I'm a pythonista)
 
