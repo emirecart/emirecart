@@ -2,9 +2,9 @@
 ---
 
 My researches areas are : 
-> Machine Learning and Deep Learning for Behavioural Science
-> Social Psychology
-> Neuroscience
+> *Machine Learning and Deep Learning for Behavioural Science
+> *Social Psychology
+> *Neuroscience
 
 I focus my analisis using Python (I'm a pythonista)
 
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning engineer and Neuroscience
 - 🤔 I’m looking for help with Calculus
 
-**emirecart/emirecart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
