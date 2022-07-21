@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Machine Learning engineer and Neuroscience
 - 🤔 I’m looking for help with Calculus
 
+
+My lab https://experimentoscognitivos.com/
+
